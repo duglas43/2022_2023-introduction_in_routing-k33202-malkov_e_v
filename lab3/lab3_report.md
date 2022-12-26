@@ -300,7 +300,16 @@ set name=PC1
 ```
 
 4. Результаты пингов, проверки локальной связности.
-   ![Screenshot](./assets/Screenshot_3.png)
-   ![Screenshot](./assets/Screenshot_2.png)
 
-**Выводы**: Выполнив данную работу я ознакомился c принципами планирования IP адресов, настройке статической маршрутизации и сетевыми функциями устройств.
+- Таблицы MPLS на всех роутерах:
+  ![Screenshot](./assets/Screenshot_1.png)
+  ![Screenshot](./assets/Screenshot_2.png)
+  ![Screenshot](./assets/Screenshot_10.png)
+  ![Screenshot](./assets/Screenshot_4.png)
+  ![Screenshot](./assets/Screenshot_5.png)
+  ![Screenshot](./assets/Screenshot_6.png)
+- Проверка связи компьтера и сервера
+  ![Screenshot](./assets/Screenshot_9.png)
+  ![Screenshot](./assets/Screenshot_7.png)
+
+**Выводы**: Выполнив данную работу я изучил протоколы OSPF и MPLS, механизмы организации EoMPLS и создал сеть для компании RogaIKopita Games.
