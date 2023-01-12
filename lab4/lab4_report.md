@@ -452,6 +452,6 @@ add address=192.168.0.3/24 interface=ether2 network=192.168.0.0
   ![screenshot](./assets/Screenshot_17.png)
 - Проверка связности между компьютерами
   ![screenshot](./assets/Screenshot_18.png)
-  ![screenshot](./assets/Screenshot_18.png)
+  ![screenshot](./assets/Screenshot_19.png)
 
 **Вывод**:Выполнив данную работу я изучил протоколы BGP, MPLS и правила организации L3VPN и VPLS.
